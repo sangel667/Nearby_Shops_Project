@@ -17,8 +17,9 @@ def load_data(apps, schema_editor):
                 objType = obj['type']
                 if objType == 'Point':
                     name = name
-                    coordinates = coordinates
-                    location = fromstr(f'POINT({coordinates})', srid=4326)
+                    longitude = obj.get('lon',0)
+                    latitude = obj.get('lat', 0)
+                    location = fromstr(f'POINT{longitude} {latitude})', srid=4326)
                     Shop(name=name, location = location).save()
             except KeyError:
                 pass  
