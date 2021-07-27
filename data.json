@@ -1,0 +1,411 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-06-15T11:32:13Z",
+  "features": [
+       {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258929136",
+        "addr:housenumber": "17",
+        "addr:postcode": "GU7 2NW",
+        "name": "Quarry Hill Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6293592,
+          "lon":51.1810267
+      },
+      "id": "node/258929136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/484793354",
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6073429,
+          "lon":51.1904725
+      },
+      "id": "node/484793354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/484828102",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": -0.6064168,
+          "lon":51.1902934
+      },
+      "id": "node/484828102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486172775",
+        "brand": "Pets at Home",
+        "brand:wikidata": "Q7179258",
+        "brand:wikipedia": "en:Pets at Home",
+        "name": "Pets at Home",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6064463,
+          "lon":51.187476
+      },
+      "id": "node/486172775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486172780",
+        "brand": "Homebase",
+        "brand:wikidata": "Q9293447",
+        "brand:wikipedia": "en:Homebase",
+        "name": "Homebase",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6072559,
+        "lon":51.1872994
+      },
+      "id": "node/486172780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486172913",
+        "name": "Scats Countrystores",
+        "postal_code": "GU7 1NS",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6085181,
+          "lon":51.1850227
+      },
+      "id": "node/486172913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486172990",
+        "brand": "British Red Cross",
+        "brand:wikidata": "Q4970966",
+        "brand:wikipedia": "en:British Red Cross",
+        "name": "British Red Cross",
+        "shop": "charity"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.5983704,
+        "lon": 51.193728
+      },
+      "id": "node/486172990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/564773864",
+        "name": "Wine Rack",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6030099,
+        "lon": 51.1965928
+      },
+      "id": "node/564773864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1091490320",
+        "addr:housenumber": "41",
+        "addr:postcode": "GU7 3LH",
+        "addr:street": "Farncombe Street",
+        "fhrs:id": "426813",
+        "name": "Wakelings",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6067614,
+        "lon":51.1961358
+      },
+      "id": "node/1091490320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1091490335",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6064341,
+        "lon":51.1960618
+      },
+      "id": "node/1091490335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1635610037",
+        "addr:city": "Godalming",
+        "addr:housenumber": "41",
+        "addr:postcode": "GU7 1HL",
+        "addr:street": "Bridge Street",
+        "fhrs:id": "551994",
+        "name": "Amylou`s",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6099676,
+        "lon": 51.1863035
+      },
+      "id": "node/1635610037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269929817",
+        "addr:housenumber": "7/9",
+        "addr:street": "Wharf Street",
+        "name": "Halo",
+        "shop": "hairdresser",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6099509,
+        "lon": 51.1856833
+      },
+      "id": "node/4269929817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270485494",
+        "name": "Zeal",
+        "shop": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6103107,
+        "lon":51.1856774
+      },
+      "id": "node/4270485494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271212118",
+        "addr:street": "Queen Street",
+        "name": "Connecta Baby",
+        "shop": "toys",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6111604,
+        "lon": 51.1854394
+      },
+      "id": "node/4271212118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271220116",
+        "addr:street": "Queen Street",
+        "name": "Nathans",
+        "shop": "hardware",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6110849,
+        "lon":51.1850132
+      },
+      "id": "node/4271220116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271220117",
+        "addr:street": "Queen Street",
+        "name": "A Novel Idea",
+        "shop": "books",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": -0.6111193,
+        "lon": 51.185301
+      },
+      "id": "node/4271220117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271853210",
+        "addr:street": "High Street",
+        "brand": "Snappy Snaps",
+        "brand:wikidata": "Q7547351",
+        "brand:wikipedia": "en:Snappy Snaps",
+        "name": "Snappy Snaps",
+        "shop": "photo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": -0.6127566,
+        "lon": 51.1856582
+      },
+      "id": "node/4271853210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271853536",
+        "addr:street": "High Street",
+        "name": "Cassally",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6128487,
+        "lon": 51.1856466
+      },
+      "id": "node/4271853536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145325914",
+        "name": "Farncombe Convenience",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6044194,
+        "lon": 51.1960258
+      },
+      "id": "node/5145325914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145325915",
+        "operator": "DEBRA",
+        "shop": "charity",
+        "website": "https://www.debra.org.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6045723,
+        "lon":51.1959913
+      },
+      "id": "node/5145325915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145325917",
+        "name": "Phyllis Tuckwell Hospice",
+        "shop": "charity"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6047211,
+        "lon": 51.1959888
+      },
+      "id": "node/5145325917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145325918",
+        "name": "Solid Ink Tattoo",
+        "shop": "tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6047587,
+        "lon":51.1959863
+      },
+      "id": "node/5145325918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145325919",
+        "brand": "The Co-operative Funeralcare",
+        "brand:wikidata": "Q7726521",
+        "brand:wikipedia": "en:Co-op Funeralcare",
+        "name": "The Co-operative Funeralcare",
+        "shop": "funeral_directors"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.6048673,
+        "lon":51.195977
+      },
+      "id": "node/5145325919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5697622841",
+        "addr:city": "Godalming",
+        "addr:housenumber": "40",
+        "addr:postcode": "GU7 1DY",
+        "addr:street": "High Street",
+        "building": "yes",
+        "name": "Chandlers",
+        "operator": "none",
+        "shop": "optician",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat":-0.61184,
+        "lon":51.1857463
+      },
+      "id": "node/5697622841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5697656802",
+        "name": "Toni & Guy",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "lat": -0.6120576,
+        "lon":  51.1857311
+      },
+      "id": "node/5697656802"
+    }
+  ]
+}
